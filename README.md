@@ -1,5 +1,5 @@
-# Hi, I'm Ilya ![](https://github.com/1ukch/BSU-FAMCS/blob/master/1Er.gif)
-### Here my labs at FAMCS_BSU
+# Привет, я Илья, студент БГУ ФПМИ(ПМ), 2ой курс ![](https://github.com/1ukch/BSU-FAMCS/blob/master/1Er.gif)
+### Здесь мои работы по слейдующим дисциплинам:
 ## Первый курс
 - ### Основы и методологии программирования(C++)
 - ### Разработка кросс-платформенных приложений(C++)
