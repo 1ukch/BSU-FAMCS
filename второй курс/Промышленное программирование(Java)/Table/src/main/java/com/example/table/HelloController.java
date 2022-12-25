@@ -1,5 +1,4 @@
 package com.example.table;
-
 import javafx.collections.ObservableList;
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
@@ -25,6 +24,8 @@ public class HelloController {
     @FXML
     private TableColumn<Book, String> avtor;
     @FXML
+    //
+
     protected void click() throws Exception{
         Scanner in = new Scanner(new FileReader("input.txt"));
         int size =in.nextInt();
